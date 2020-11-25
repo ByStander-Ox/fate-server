@@ -1,0 +1,7 @@
+{
+    "port": "4000",
+    "host": "localhost",
+    "motd": "Another Fate Server",
+    "max_players": 1000,
+    "mongodb_uri": "mongodb://localhost/test-fate-1"
+}

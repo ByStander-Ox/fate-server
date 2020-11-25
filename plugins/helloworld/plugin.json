@@ -1,0 +1,12 @@
+{
+    "author": "sammwy",
+    "main": "main.js",
+    "name": "HelloWorld",
+    "version": 1.0,
+    "commands": {
+        "test": {
+            "aliases": ["uwu"],
+            "description": "dasdsadsadsad"
+        }
+    }
+}
