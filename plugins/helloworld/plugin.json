@@ -1,0 +1,17 @@
+{
+    "author": "sammwy",
+    "main": "main.js",
+    "name": "HelloWorld",
+    "version": 1.0,
+    "commands": {
+        "tp": {
+            "aliases": ["uwu"],
+            "description": "dasdsadsadsad"
+        },
+
+        "spawn": {
+            "aliases": "spw",
+            "description": "uwuwuwu"
+        }
+    }
+}

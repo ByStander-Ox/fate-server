@@ -1,0 +1,23 @@
+{
+  "name": "fate-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "set NODE_ENV=production&&babel-node .",
+    "dev:watch": "set NODE_ENV=development&&nodemon --exec babel-node .",
+    "dev": "set NODE_ENV=development&&babel-node ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "captainjs": "^1.0.4",
+    "mongoose": "^5.10.15"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.9",
+    "@babel/node": "^7.12.6",
+    "@babel/preset-env": "^7.12.7",
+    "nodemon": "^2.0.6"
+  }
+}
